@@ -6,7 +6,7 @@
 /*   By: asafrono <asafrono@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/04 14:54:18 by asafrono          #+#    #+#             */
-/*   Updated: 2024/11/07 17:32:05 by asafrono         ###   ########.fr       */
+/*   Updated: 2024/12/20 14:14:57 by asafrono         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -265,8 +265,10 @@ int	ft_printf(const char *format, ...)
 // }
 
 // cc -Wall -Wextra -Werror
-// -I./libft ft_printf_bonus.c handle_char_bonus.c handle_format_bonus.c handle_hex_bonus.c 
-// handle_int_bonus.c handle_percent_bonus.c handle_pointer_bonus.c handle_string_bonus.c
+// -I./libft ft_printf_bonus.c handle_char_bonus.c 
+// handle_format_bonus.c handle_hex_bonus.c 
+// handle_int_bonus.c handle_percent_bonus.c 
+// handle_pointer_bonus.c handle_string_bonus.c
 // handle_unsigned_bonus.c print_padding_bonus.c ./libft/libft.a && ./a.out
 
 // void parse_flags(const char **format, t_flags *flags)

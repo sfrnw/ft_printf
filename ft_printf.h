@@ -6,7 +6,7 @@
 /*   By: asafrono <asafrono@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/30 13:29:39 by asafrono          #+#    #+#             */
-/*   Updated: 2024/11/08 13:05:18 by asafrono         ###   ########.fr       */
+/*   Updated: 2024/12/20 14:12:15 by asafrono         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <stdarg.h>
 # include <unistd.h>
 # include <stdio.h>
-# include "libft/libft.h"
+# include "libft/src/libft.h"
 # include <stdlib.h>
 # include <limits.h>
 

@@ -6,7 +6,7 @@
 /*   By: asafrono <asafrono@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/04 17:41:08 by asafrono          #+#    #+#             */
-/*   Updated: 2024/11/07 17:23:28 by asafrono         ###   ########.fr       */
+/*   Updated: 2024/12/20 14:14:32 by asafrono         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,4 +33,3 @@ int	handle_pointer_bonus(va_list args)
 	free(str);
 	return (count);
 }
-
